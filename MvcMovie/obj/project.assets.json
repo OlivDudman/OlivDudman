@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olivi\\Documents\\DADSA2021R - Olivia Dudman\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "D:\\Projects\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\olivi\\Documents\\DADSA2021R - Olivia Dudman\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "D:\\Projects\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\olivi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olivi\\Documents\\DADSA2021R - Olivia Dudman\\MvcMovie\\obj\\",
+      "outputPath": "D:\\Projects\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\olivi\\AppData\\Roaming\\NuGet\\NuGet.Config",
