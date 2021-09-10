@@ -5,7 +5,6 @@ D:\Projects\MvcMovie\bin\Debug\net5.0\MvcMovie.deps.json
 D:\Projects\MvcMovie\bin\Debug\net5.0\MvcMovie.runtimeconfig.json
 D:\Projects\MvcMovie\bin\Debug\net5.0\MvcMovie.runtimeconfig.dev.json
 D:\Projects\MvcMovie\bin\Debug\net5.0\MvcMovie.dll
-D:\Projects\MvcMovie\bin\Debug\net5.0\ref\MvcMovie.dll
 D:\Projects\MvcMovie\bin\Debug\net5.0\MvcMovie.pdb
 D:\Projects\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.dll
 D:\Projects\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.pdb
@@ -18,7 +17,6 @@ D:\Projects\MvcMovie\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.c
 D:\Projects\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cache
 D:\Projects\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cs
 D:\Projects\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
-D:\Projects\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.xml
 D:\Projects\MvcMovie\obj\Debug\net5.0\scopedcss\bundle\MvcMovie.styles.css
 D:\Projects\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.input.cache
 D:\Projects\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.output.cache
@@ -38,3 +36,4 @@ D:\Projects\MvcMovie\obj\Debug\net5.0\ref\MvcMovie.dll
 D:\Projects\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
 D:\Projects\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
 D:\Projects\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+D:\Projects\MvcMovie\obj\Debug\net5.0\refint\MvcMovie.dll
